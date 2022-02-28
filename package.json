@@ -1,0 +1,46 @@
+{
+  "name": "el-horno",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "engines": {
+    "npm":"7.23.0"
+  },
+  "scripts": {
+    "build": "SKIP_PREFLIGHT_CHECK=true npm run build --workspace=client",
+    "start": "npm run start --workspace=server",
+    "dev:api": "npm run build && npm run dev --workspace=server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "eslintConfig": {
+    "ignorePatterns": "build",
+    "extends":[
+      "react-app",
+      "react-app/jest",
+      "./node_modules/standard/eslintrc.json"
+    ],
+    "env": {
+      "cypress/globals": true,
+      "jest": true
+    },
+    "plugins": [
+      "cypress"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidB2ya/El-Horno.git"
+  },
+  "keywords": [],
+  "author": "B2ya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidB2ya/El-Horno/issues"
+  },
+  "homepage": "https://github.com/davidB2ya/El-Horno#readme"
+}

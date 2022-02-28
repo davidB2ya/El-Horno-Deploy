@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "img": "../assets/images (4).png",
+        "title": "Pizza de Chorizo",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "20000",
+        "favorite": false
+    },
+    {
+        "id": "2",
+        "img": "../assets/images (4).png",
+        "title": "Pizza Hawiana",
+        "description": "Deliciosa Pizza con agrego de Piña y extra queso",
+        "price": "22000",
+        "favorite": false
+    },
+    {
+        "id": "3",
+        "img": "../assets/images (4).png",
+        "title": "Pizza Criolla",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "24000",
+        "favorite": false
+    },
+    {
+        "id": "4",
+        "img": "../assets/images (4).png",
+        "title": "Pizza Champiñones",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "25000",
+        "favorite": false
+    },
+    {
+        "id": "5",
+        "img": "../assets/images (4).png",
+        "title": "Pizza de Pollo",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "22000",
+        "favorite": false
+    },
+    {
+        "id": "6",
+        "img": "../assets/images (4).png",
+        "title": "Pizza de Cebolla",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "24000",
+        "favorite": false
+    },
+    {
+        "id": "7",
+        "img": "../assets/images (4).png",
+        "title": "Pizza de Pimiento",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "20000",
+        "favorite": false
+    },
+    {
+        "id": "8",
+        "img": "../assets/images (4).png",
+        "title": "Pizza de Carnes",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "20000",
+        "favorite": false
+    },
+    {
+        "id": "9",
+        "img": "../assets/images (4).png",
+        "title": "Pizza Napolitana",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "20000",
+        "favorite": false
+    },
+    {
+        "id": "10",
+        "img": "../assets/images (4).png",
+        "title": "Pizza de Tocineta",
+        "description": "Deliciosa Pizza con agrego de Chorizzo y extra queso",
+        "price": "20000",
+        "favorite": false
+    }
+]
